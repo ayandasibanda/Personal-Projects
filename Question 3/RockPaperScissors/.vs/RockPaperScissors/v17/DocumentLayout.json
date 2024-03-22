@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Programming 3B Assignment\\Question 3\\RockPaperScissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5F2138-F8AF-4266-947D-FDEC583314D4}|RockPaperScissors.csproj|c:\\users\\ayanda sibanda\\onedrive - educor holdings\\desktop\\programming 3b assignment\\question 3\\rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5F2138-F8AF-4266-947D-FDEC583314D4}|RockPaperScissors.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Programming 3B Assignment\\Question 3\\RockPaperScissors\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Programming 3B Assignment\\Question 3\\RockPaperScissors\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T02:23:53.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

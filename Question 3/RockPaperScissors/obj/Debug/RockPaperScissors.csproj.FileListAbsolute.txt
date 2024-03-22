@@ -1,0 +1,7 @@
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 3\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 3\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 3\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 3\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 3\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 3\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 3\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

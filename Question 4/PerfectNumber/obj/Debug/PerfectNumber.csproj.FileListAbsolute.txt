@@ -1,0 +1,7 @@
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 4\PerfectNumber\bin\Debug\PerfectNumber.exe.config
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 4\PerfectNumber\bin\Debug\PerfectNumber.exe
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 4\PerfectNumber\bin\Debug\PerfectNumber.pdb
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 4\PerfectNumber\obj\Debug\PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 4\PerfectNumber\obj\Debug\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 4\PerfectNumber\obj\Debug\PerfectNumber.exe
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 4\PerfectNumber\obj\Debug\PerfectNumber.pdb
