@@ -1,0 +1,10 @@
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\bin\Debug\PigLatinGUI.exe.config
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\bin\Debug\PigLatinGUI.exe
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\bin\Debug\PigLatinGUI.pdb
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\obj\Debug\PigLatinGUI.csproj.AssemblyReference.cache
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\obj\Debug\PigLatinGUI.Form1.resources
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\obj\Debug\PigLatinGUI.Properties.Resources.resources
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\obj\Debug\PigLatinGUI.csproj.GenerateResource.cache
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\obj\Debug\PigLatinGUI.csproj.CoreCompileInputs.cache
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\obj\Debug\PigLatinGUI.exe
+C:\Users\Ayanda Sibanda\OneDrive - Educor Holdings\Desktop\Programming 3B Assignment\Question 2\PigLatinGUI\obj\Debug\PigLatinGUI.pdb
