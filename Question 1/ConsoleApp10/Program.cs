@@ -8,71 +8,90 @@ namespace ConsoleApp10
 {
     public class Program
     {
-       // Enumeration to hold the zone names
-
-        public enum Zone
+        // Enumeration to represent different zones
+        enum Zone
         {
-            School,
-            City,
-            Highway,
+            School = 1,  // 1 represents School zone
+            City,       // 2 represents City zone
+            Highway     // 3 represents Highway zone
+
         }
 
-        // 2nd Enumeration to hold the speed limits for each zone
-
-        public enum SpeedLimit
+        // Enumeration to represent speed limits for each zone
+        enum SpeedLimit
         {
-            School = 20,
-            City = 30,
-            Highway = 55,
+            SchoolZoneSpeed = 20,  // Speed limit for School zone is 20
+            CityStreetSpeed = 30,  // Speed limit for City zone is 30
+            HighwaySpeed = 55      // Speed limit for Highway zone is 55
         }
 
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("*************************************************************");
+            Zone zone;          // Variable to store selected zone
+            SpeedLimit speedLimit;  // Variable to store speed limit of selected zone
+            int zoneNumber;     // Variable to store zone number input by the user
 
-            // Prompt user to enter zone
-            Console.WriteLine("Please enter a zone number ");
+            // Display options for selecting a zone
+            Console.WriteLine("*****************************");
+            Console.WriteLine("Please enter a zone number");
             Console.WriteLine("1. School");
             Console.WriteLine("2. City");
             Console.WriteLine("3. Highway");
+            Console.WriteLine("*****************************");
+
+            // Read the zone number input by the user
+            zoneNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
-            Console.WriteLine("*************************************************************");
 
-            string zoneNumber = Console.ReadLine();
+            // Prompt the user to enter current speed
+            Console.WriteLine("Please enter your current speed:");
+            int currentSpeed = Convert.ToInt32(Console.ReadLine());
 
-            // Validate and parse user input
+            // Convert the zone number to Zone enumeration
+            zone = (Zone)zoneNumber;
 
-            Zone Zone;
-            if (!Enum.TryParse(zoneNumber, true, out Zone))
+            // Determine speed limit based on the selected zone
+            switch (zone)
             {
-                Console.WriteLine("Incorrect input. Please enter valid zone number");
-                Console.ReadKey();
-                return;
+                case Zone.School:
+                    speedLimit = SpeedLimit.SchoolZoneSpeed;
+                    if (currentSpeed > (int)speedLimit)
+                    {
+                        Console.WriteLine("Slow down and maintain the speed limit of 20 in the School zone");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Thank you for maintaining the speed limit in the School zone");
+                    }
+                    break;
+                case Zone.City:
+                    speedLimit = SpeedLimit.CityStreetSpeed;
+                    if (currentSpeed > (int)speedLimit)
+                    {
+                        Console.WriteLine("Slow down and maintain the speed limit of 30 in the City zone");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Thank you for maintaining the speed limit in the City zone");
+                    }
+                    break;
+                case Zone.Highway:
+                    speedLimit = SpeedLimit.HighwaySpeed;
+                    if (currentSpeed > (int)speedLimit)
+                    {
+                        Console.WriteLine("Slow down and maintain the speed limit of 55 on the Highway");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Thank you for maintaining the speed limit on the Highway");
+                    }
+                    break;
             }
 
-            // Prompt user to enter driving speed
-            Console.WriteLine("Please enter your current speed");
-            if (!int.TryParse(Console.ReadLine(), out int driversSpeed))
-            {
-                Console.WriteLine("Incorrect input. Please enter valid speed");
-                Console.ReadKey();
-                return;
-
-            }
-
-            // Check if drivers speed exceeds the speed limit for the current zone
-            SpeedLimit speedLimit = (SpeedLimit)Enum.Parse(typeof(SpeedLimit), Zone.ToString()); 
-            if (driversSpeed > (int)speedLimit)
-            {
-                Console.WriteLine("Please slow down and maintain the specified speed limit in the specified zone");
-                Console.ReadKey();
-            }
-            else if (driversSpeed < (int)speedLimit)
-            {
-                Console.WriteLine("Thank you for maintaining the speed limit in the specified zone");
-                Console.ReadKey();
-            }
-           
+            // Keep the console window open until a key is pressed
+            Console.Read();
+            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }

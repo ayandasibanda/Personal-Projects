@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Programming 3B Assignment\\Question 2\\PigLatinGUI\\",
+  "WorkspaceRootPath": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Ayanda Sibanda 202105712 - Programming 3A\\Question 2\\PigLatinGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80480C7C-E0F4-4AC5-98EC-719B86AF7C18}|PigLatinGUI.csproj|c:\\users\\ayanda sibanda\\onedrive - educor holdings\\desktop\\programming 3b assignment\\question 2\\piglatingui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80480C7C-E0F4-4AC5-98EC-719B86AF7C18}|PigLatinGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Ayanda Sibanda 202105712 - Programming 3A\\Question 2\\PigLatinGUI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80480C7C-E0F4-4AC5-98EC-719B86AF7C18}|PigLatinGUI.csproj|c:\\users\\ayanda sibanda\\onedrive - educor holdings\\desktop\\programming 3b assignment\\question 2\\piglatingui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80480C7C-E0F4-4AC5-98EC-719B86AF7C18}|PigLatinGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Ayanda Sibanda 202105712 - Programming 3A\\Question 2\\PigLatinGUI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Programming 3B Assignment\\Question 2\\PigLatinGUI\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Ayanda Sibanda 202105712 - Programming 3A\\Question 2\\PigLatinGUI\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Programming 3B Assignment\\Question 2\\PigLatinGUI\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Ayanda Sibanda 202105712 - Programming 3A\\Question 2\\PigLatinGUI\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T01:03:28.503Z",
@@ -36,14 +36,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Programming 3B Assignment\\Question 2\\PigLatinGUI\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Ayanda Sibanda 202105712 - Programming 3A\\Question 2\\PigLatinGUI\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Programming 3B Assignment\\Question 2\\PigLatinGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ayanda Sibanda\\OneDrive - Educor Holdings\\Desktop\\Ayanda Sibanda 202105712 - Programming 3A\\Question 2\\PigLatinGUI\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T01:13:19.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T01:13:19.407Z"
             }
           ]
         }
